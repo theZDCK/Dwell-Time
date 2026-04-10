@@ -1,15 +1,9 @@
 [
   {
-    "name": "Kerrygold Cheese",
-    "radioId": "4Z1-DX28G",
-    "modularId": "A3-3",
-    "id": "767707002293",
-    "img": "https://akimages.shoplocal.com/dyn_li/384.0.90.0/Retailers/Publix/260312_Page_01_Feature_04_248468_254275.jpg%22"},
-  {
-    "name": "Prego Italian Sauce",
-    "radioId": "4Z1-DX2GR",
-    "modularId": "A1-9",
-    "id": "051000198570",
-    "img": "https://akimages.shoplocal.com/dyn_li/368.0.90.0/Retailers/Publix/260312_a1_Prego_Italian_Sauce.jpg"
-  }
+    "name": "Lake Como Coupe Plate",
+    "radioId": "4Z1-2RM9T",
+    "modularId": "A1-4",
+    "id": "910169",
+    "img": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_58ac875a-7b7e-44c9-957d-f3970bfcf413.jpeg"},
+
 ]
